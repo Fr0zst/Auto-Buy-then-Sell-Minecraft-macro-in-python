@@ -15,6 +15,8 @@ Then after that run it with python MoneyMacro.py
 If you have any issues just leave it in the issue thing i should be able to help you!
 
 
+this works only for a few plugins for mc
+
 Below is a video for a demenstration:
 
 
