@@ -1,3 +1,6 @@
+# © 2025 Fr0zst. All rights reserved. 
+# Unauthorized copying prohibited.
+
 import pyautogui
 import keyboard
 import time
@@ -458,3 +461,4 @@ def main_menu():
 
 if __name__ == "__main__":
     main_menu()
+
